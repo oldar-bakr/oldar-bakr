@@ -1,60 +1,83 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c6ff&height=300&section=header&text=Oldar%20Bakr&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Architect%20%7C%20AI%20&%20Cloud%20%7C%20Dubai%20Ready%20%E2%9C%85" />
-</p>
+<a name="readme-top"></a>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&size=30&center=true&vCenter=true&width=800&font=Impact&lines=Building+Scalable+Solutions;Architecting+Future+Systems;Integration+AI+into+Mobile+&+Web;Seeking+Senior+Roles+in+Dubai+🚀" />
-</h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=oldar-bakr&color=00c6ff&style=flat-square" alt="Profile views" />
-</p>
-
----
-
-<h3 align="center">⚡ ENGINEERING STATS</h3>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=oldar-bakr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00c6ff&icon_color=00c6ff" />
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oldar-bakr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00c6ff" />
-</p>
-
----
-
-<h3 align="center">🐍 CONTRIBUTION ACTIVITY</h3>
-<p align="center">
-  <a href="https://github.com/oldar-bakr/oldar-bakr/actions/workflows/snake.yml">
-    <img src="https://raw.githubusercontent.com/oldar-bakr/oldar-bakr/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+<br />
+<div align="center">
+  <a href="https://github.com/oldar-bakr/repo-name">
+    <img src="https://cdn-icons-png.flaticon.com/512/10823/10823652.png" alt="Logo" width="80" height="80">
   </a>
-</p>
 
----
+  <h3 align="center">PROJECT NAME HERE</h3>
 
-<h3 align="center">🛠️ TECH ARSENAL</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,flutter,python,fastapi,django,php,laravel,mysql,postgres,mongodb,redis,docker,kubernetes,aws,azure,git,linux,figma&perline=11&theme=dark" />
-</p>
+  <p align="center">
+    An AI-powered scalable solution built for performance.
+    <br />
+    <a href="https://github.com/oldar-bakr/repo-name"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/oldar-bakr/repo-name">View Demo</a>
+    ·
+    <a href="https://github.com/oldar-bakr/repo-name/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/oldar-bakr/repo-name/issues">Request Feature</a>
+  </p>
+</div>
 
----
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
-<h3 align="center">🏆 ACHIEVEMENTS</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oldar-bakr&theme=flat_dark&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
-</p>
+## 🚀 About The Project
 
----
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-<p align="center">
-  <a href="https://github.com/oldar-bakr">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00c6ff" />
-  </a>
-  <a href="https://www.linkedin.com/in/oldar-bakr">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:oldar.bakr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+Here is where you explain what this project does. 
+* Why did you build it?
+* What problem does it solve?
+* Why is it better than the competition?
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:203a43,100:0f2027&height=150&section=footer" />
-</p>
+This project implements clean architecture and scalable patterns, designed to handle high-traffic environments.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### 🛠️ Built With
+
+This project relies on the following robust frameworks and libraries:
+
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Flutter][Flutter.dev]][Flutter-url]
+* [![Tailwind][TailwindCSS]][Tailwind-url]
+* [![Python][Python]][Python-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⚡ Getting Started
+
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+Ensure you have the latest version of NPM or Flutter installed.
+* npm
+  ```sh
+  npm install npm@latest -g
