@@ -64,7 +64,7 @@
 ## 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/oldar-bakr/oldar-bakr/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/oldar-bakr/oldar-bakr/output/snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
@@ -72,7 +72,7 @@
 ## 📊 ACTIVITY GRAPH
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oldar-bakr&theme=tokyo-night&hide_border=true&line=00C6FF&point=00C6FF&title_color=00C6FF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oldar-bakr&theme=tokyo-night&hide_border=true&line=00C6FF&point=00C6FF&title_color=00C6FF" alt="Activity Graph" />
 </p>
 
 ---
