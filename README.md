@@ -3,12 +3,20 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c6ff&height=300&section=header&text=Oldar%20Bakr&fontSize=65&fontColor=ffffff&animation=fadeIn&desc=Code%20Architecture%20%7C%20AI%20Integration%20%7C%20%23DubaiReady" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0f2027,100:0f2027&height=350&section=header&text=Oldar%20Bakr&fontSize=70&fontColor=00c6ff&animation=fadeIn&desc=Code%20Architecture%20%7C%20AI%20%26%20Scalability%20%7C%20Hiring%20Ready%20%E2%9C%85" />
 </p>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&size=30&center=true&vCenter=true&width=750&font=Impact&lines=Full+Stack+Architect;Mobile+App+Engineer;AI+%26+DevOps+Focused;Always+Shipping+Clean+Code+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&size=32&center=true&vCenter=true&width=800&font=Impact&lines=Crafting+Digital+Experiences;Optimizing+Cloud+Performance;Full-Stack+Architect;Dubai+Bound+for+Senior+Roles+🚀" />
 </h2>
+
+---
+
+## 💡 DYNAMIC THOUGHT
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0f2027&border_color=00C6FF&quote_color=00C6FF" alt="Dynamic Quote" />
+</p>
 
 ---
 
@@ -22,15 +30,15 @@
 
 ---
 
-## 💎 CORE SKILLS | <span style="color:#00C6FF;">TECH STACK</span>
+## 🛠️ THE ARSENAL | <span style="color:#00C6FF;">TECH STACK</span>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,flutter,python,php,docker,kubernetes,azure,aws,mongodb,mysql,git,linux,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,flutter,python,php,docker,kubernetes,azure,aws,mongodb,mysql,git,linux,figma&theme=dark&perline=8" />
 </p>
 
 ---
 
-## ✨ LATEST PROJECTS (Starred Repositories)
+## ✨ LATEST PROJECTS
 
 <p align="center">
   <a href="https://github.com/oldar-bakr">
@@ -64,14 +72,21 @@
 
 ---
 
-## 🧠 ABOUT ME
+## 🧠 PROFESSIONAL FOCUS
+
+| Focus Area | Description |
+| :---: | :--- |
+| **Architectural Design** | Building **scalable** microservices and monoliths with Next.js/Node.js. |
+| **Cross-Platform Mobility** | Developing high-performance, beautiful applications using **Flutter**. |
+| **Cloud & DevOps** | Expertise in **Azure/AWS** deployment, Docker, and CI/CD pipelines. |
+| **AI Integration** | Implementing practical **Machine Learning** models into web and mobile APIs. |
+
+---
+
+## 💼 LOOKING FOR
 
 ```diff
-+ 🎯 Mission: Deliver clean, scalable, and high-performance code architecture.
-+ 💻 Expertise: Full-Stack (Next.js/Node), Mobile (Flutter), and Cloud/AI Integration.
-+ 💡 Focus: Obsessed with speed, animated UI, and continuous delivery.
-+ 🌍 Currently in Istanbul — Actively seeking senior/architect roles in Dubai 🚀
-🌐 SOCIALS & CONTACT
-<p align="center"> <a href="https://github.com/oldar-bakr"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=00C6FF" /> </a> <a href="https://www.linkedin.com/in/oldar-bakr"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:oldar.bakr@gmail.com"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /> </a> </p>
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=180&section=footer" /> </p>
++ Senior/Lead Full-Stack Developer 
++ Mobile Application Architect (Flutter)
++ Any premium, performance-focused role in the UAE (Dubai/Abu Dhabi)
++ Available for immediate start.
