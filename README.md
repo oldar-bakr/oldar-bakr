@@ -14,15 +14,6 @@
 
 ---
 
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/oldar-bakr/oldar-bakr/output/snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</div>
-
----
-
 <h3 align="left">🛠️ Tech Stack</h3>
 
 <h4>Frontend</h4>
