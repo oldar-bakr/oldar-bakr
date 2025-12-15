@@ -4,11 +4,7 @@
 ---
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=oldar-bakr&show_icons=true&count_private=true&include_all_commits=true&theme=dracula"
-    height="150"
-    alt="GitHub Stats"
-  />
+
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=oldar-bakr&layout=compact&langs_count=6&theme=dracula"
     height="150"
