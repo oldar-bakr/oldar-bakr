@@ -3,16 +3,6 @@
 
 ---
 
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=oldar-bakr&layout=compact&langs_count=6&theme=dracula"
-    height="150"
-    alt="Top Languages"
-  />
-</div>
-
----
 
 <h3 align="left">🛠️ Tech Stack</h3>
 
