@@ -63,14 +63,3 @@
   </a>
 </p>
 
----
-
-<h3 align="left">🔥 GitHub Streak</h3>
-
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=oldar-bakr&theme=dracula"
-    height="150"
-    alt="GitHub Streak"
-  />
-</div>
